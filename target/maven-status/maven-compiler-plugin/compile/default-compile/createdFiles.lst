@@ -1,0 +1,11 @@
+Clima\subject.class
+Clima\WeatherData.class
+Clima\ForecastDisplay.class
+Clima\WeatherStation.class
+Clima\DisplayElement.class
+Clima\StatisticsDisplay.class
+Clima\Main.class
+Clima\List.class
+Clima\ThirdPartyDisplay.class
+Clima\CurrentConditions.class
+Clima\Observer.class
